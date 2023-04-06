@@ -1,0 +1,11 @@
+﻿  UDP_Packet.c
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(16,5): warning C4013: niezdefiniowany "inet_ntop"; przy założeniu, że extern zwraca int
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(27,20): warning C4013: niezdefiniowany "inet_pton"; przy założeniu, że extern zwraca int
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(74,52): warning C4133: "funkcja": niezgodne typy - od "sockaddr_in *" do "const sockaddr *"
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(95,34): warning C4013: niezdefiniowany "time"; przy założeniu, że extern zwraca int
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(99,62): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(109,81): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(125,5): warning C4013: niezdefiniowany "close"; przy założeniu, że extern zwraca int
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(63,18): warning C4244: "inicjowanie": konwersja z "SOCKET" do "int", możliwa utrata danych
+C:\Users\smksb\source\repos\UDP_packet\UDP_packet\UDP_Packet.c(25,12): warning C4101: "errmsg": lokalna zmienna, do której nie istnieje odwołanie
+  UDP_packet.vcxproj -> C:\Users\smksb\source\repos\UDP_packet\x64\Debug\UDP_packet.exe
